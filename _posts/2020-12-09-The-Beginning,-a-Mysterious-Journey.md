@@ -4,4 +4,5 @@ title: "The Beginning, a Mysterious Journey"
 date: 2020-12-09
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+This is my first ever step into the world of blogging. I will keep it nice and short for the time being - hope to talk to you all soon! 
+Cheers! Ethan
